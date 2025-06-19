@@ -12,8 +12,8 @@ publishers – издателства: име, година на основав�
 
 - Инсталация и използване
 Клонирайте хранилището:
-git clone https://github.com/your-username/bookstore-mongo-project.git
-cd bookstore-mongo-project
+git clone https://github.com/Yung-Peci/mangalDB
+cd mangalDB
 
 -Стартирайте скрипта за вмъкване на данни:
 mongosh < insert.js
